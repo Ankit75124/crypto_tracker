@@ -1,0 +1,8 @@
+npm install @material-ui/core :- material ui
+npm install @material-ui/lab :- material ui labs
+npm install react-router-dom :- router
+npm install axios
+npm i react-alice-carousel :- react alice carousel
+context api
+useContext hooks
+npm i react-html-parser
